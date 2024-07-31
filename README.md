@@ -1,1 +1,1 @@
-# medical-cost-prediction
+This project examines how different factors contribute to the individual medical costs billed by health insurance, leveraging multiple linear regression. The data was sourced from Kaggle and consists of 338 rows and 7 columns. Data was explored and feature selection was justified. Also, I transformed the dependent variable to get it closer to a bell-shaped distribution for better model prediction.
